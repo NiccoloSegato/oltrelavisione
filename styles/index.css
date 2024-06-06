@@ -17,6 +17,9 @@ body {
 #map {
     width: 70%;
     height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 .place {
@@ -51,4 +54,19 @@ body {
     padding: 3px 5px;
     font-size: 12px;
     border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    #mainbox {
+        flex-direction: column;
+    }
+    #left-bar {
+        width: 100%;
+        padding-top: 50vh;
+    }
+    #map {
+        width: 100%;
+        height: 50vh;
+    }
+    
 }

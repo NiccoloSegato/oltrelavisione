@@ -69,7 +69,7 @@
             "address": "Via Brera, 11",
             "events": [
                 {
-                    "mostra": "Scelta futuristi venticinquenni",
+                    "mostra": "Futuristi venticinquenni",
                     "year": "1934",
                     "source": "Studente caricaturista"
                 }
@@ -1038,6 +1038,11 @@
                     "mostra": "L'arte del progetto",
                     "year": "2013",
                     "source": "Subperception"
+                },
+                {
+                    "mostra": "Gli anni di Alfieri&Lacroix",
+                    "year": "2017",
+                    "source": "Subperception"
                 }
             ],
             "color": "yellow",
@@ -1098,6 +1103,78 @@
             "city": "Milano",
             "country": "Italia",
             "section": "Le teorie della visione"
+        },
+        {
+            "title": "M&L Fine Art Gallery",
+            "description": "In questa galleria si tenne una mostra nel 2017.",
+            "lat": 51.508963,
+            "lng": -0.140652,
+            "address": "15 Old Bond Street",
+            "events": [
+                {
+                    "mostra": "Franco Grignani",
+                    "year": "2017",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Londra",
+            "country": "Regno Unito",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Estorick Collection",
+            "description": "In questa galleria si tenne una mostra nel 2017.",
+            "lat": 51.543885,
+            "lng": -0.100525,
+            "address": "39a Canonbury Square",
+            "events": [
+                {
+                    "mostra": "Art as design",
+                    "year": "2017",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Londra",
+            "country": "Regno Unito",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Estorick Collection",
+            "description": "In questa galleria si tenne una mostra nel 2017.",
+            "lat": 51.543885,
+            "lng": -0.100525,
+            "address": "39a Canonbury Square",
+            "events": [
+                {
+                    "mostra": "Art as design",
+                    "year": "2017",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Londra",
+            "country": "Regno Unito",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Louvre Mouseum",
+            "description": "In questa galleria si tenne una mostra nel 1951.",
+            "lat": 48.855457,
+            "lng": 2.360082,
+            "address": "Rue de Rivoli",
+            "events": [
+                {
+                    "mostra": "Pavillon Marsan",
+                    "year": "1951",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Parigi",
+            "country": "Francia",
+            "section": "Le strutture della visione"
         }
     ]
 }
