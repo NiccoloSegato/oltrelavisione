@@ -1,0 +1,1103 @@
+{
+    "places": [
+        {
+            "title": "Galleria Lorenzelli Arte",
+            "description": "In questa galleria d'arte si tenne la mostra \"Strutture Simbiotiche\" nel 1988.",
+            "lat": 45.47871017456055,
+            "lng": 9.20932388305664,
+            "address": "Corso Buenos Aires, 2",
+            "events": [
+                {
+                    "mostra": "Strutture Simbiotiche",
+                    "year": "1988",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": "Strutture Iperboliche",
+                    "year": "1981",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1976",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1974",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1973",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1970",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Palazzo delle Esposizioni",
+            "description": "In questo luogo si svolse la \"Grande mostra nazionale futurista\" nel 1933.",
+            "lat": 41.914127349853516,
+            "lng": 12.473186492919922,
+            "address": "Via Stanislao Mancini, 16",
+            "events": [
+                {
+                    "mostra": "Grande mostra nazionale futurista",
+                    "year": "1933",
+                    "source": "Studente caricaturista"
+                }
+            ],
+            "color": "yellow",
+            "city": "Roma",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria delle Tre Arti",
+            "description": "In questa galleria d'arte si tenne la mostra \"Scelta futuristi venticinquenni\" nel 1934.",
+            "lat": 45.4732,
+            "lng": 9.1877,
+            "address": "Via Brera, 11",
+            "events": [
+                {
+                    "mostra": "Scelta futuristi venticinquenni",
+                    "year": "1934",
+                    "source": "Studente caricaturista"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria il Salotto",
+            "description": "In questa mostra si si tenne la mostra \"Dal Moirè alle Strutture Iperboliche.\"",
+            "lat": 45.804512,
+            "lng": 9.092391,
+            "address": "Via Carloni, 5C",
+            "events": [
+                {
+                    "mostra": "Dal Moirè alle Strutture Iperboliche",
+                    "year": "1985",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Como",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Koh-I-Noor",
+            "description": "In questo luogo si svolse la mostra \"Antologica al Circolo Culturale\" nel 1986.",
+            "lat": 45.4810,
+            "lng": 9.1494,
+            "address": "Via Luigi Cagnola, 29",
+            "events": [
+                {
+                    "mostra": "Antologica al Circolo Culturale",
+                    "year": "1986",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria Vismara",
+            "description": "In questa galleria d'arte si tenne la mostra \"Opere Storiche\" nel 1986.",
+            "lat": 45.47871017456055,
+            "lng": 9.20932388305664,
+            "address": "Piazza San Marco, 1",
+            "events": [
+                {
+                    "mostra": "Opere Storiche",
+                    "year": "1986",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Maison Gerbollier",
+            "description": "In questo luogo si svolse la mostra \"Polimorfismo: 1933-1985\" nel 1985.",
+            "lat": 45.746567,
+            "lng": 7.072544,
+            "address": "Via col Serena",
+            "events": [
+                {
+                    "mostra": "Polimorfismo: 1933-1985",
+                    "year": "1985",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "La Salle",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Palazzo della Permanente",
+            "description": "In questa galleria d'arte si tenne la mostra \"TYPE\" nel 1984.",
+            "lat": 45.476594,
+            "lng": 9.195513,
+            "address": "Via Filippo Turati, 34",
+            "events": [
+                {
+                    "mostra": "TYPE",
+                    "year": "1984",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Biblioteca Civica Mestre",
+            "description": "In questo luogo si svolse la mostra \"Centro verifica 8+1\" nel 1984.",
+            "lat": 45.4916,
+            "lng": 12.2381,
+            "address": "Piazza Donatori di Sangue, 10",
+            "events": [
+                {
+                    "mostra": "Centro verifica 8+1",
+                    "year": "1984",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Mestre",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Palestra Comunale",
+            "description": "In questa luogo si tenne la mostra \"Photo-Grafica\" nel 1983.",
+            "lat": 45.1334,
+            "lng": 9.4256,
+            "address": "Via Gaetano Donizzetti",
+            "events": [
+                {
+                    "mostra": "Photo-Grafica",
+                    "year": "1983",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Pieve di Porto Morone",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "MAMbo",
+            "description": "In questo museo si svolse la mostra \"Sperimentazione fotografica negli anni 1930/1970\" nel 1983.",
+            "lat": 44.5065,
+            "lng": 11.3387,
+            "address": "Via Don Minzoni, 14",
+            "events": [
+                {
+                    "mostra": "Sperimentazione fotografica negli anni 1930/1970",
+                    "year": "1983",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bologna",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Spazia",
+            "description": "In questa galleria d'arte si tenne la mostra \"I segni e le strutture\" nel 1981.",
+            "lat": 44.4951,
+            "lng": 11.3365,
+            "address": "Via De' Marchi, 7",
+            "events": [
+                {
+                    "mostra": "I segni e le strutture",
+                    "year": "1981",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bologna",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Centro Culturale Rondottanta",
+            "description": "In questa centro si tenne la mostra \"Ricerca come Arte\" nel 1980.",
+            "lat": 45.533848,
+            "lng": 9.232874,
+            "address": "Piazza della Repubblica, 8",
+            "events": [
+                {
+                    "mostra": "Ricerca come Arte",
+                    "year": "1980",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Sesto San Giovanni",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Sala comunale delle esposizioni",
+            "description": "In questa centro si tenne la mostra \"Antologica di pittura, grafica e sperimentazione\" nel 1979.",
+            "lat": 44.708275,
+            "lng": 10.598976,
+            "address": "Via Zambonini",
+            "events": [
+                {
+                    "mostra": "Antologica di pittura, grafica e sperimentazione",
+                    "year": "1979",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Reggio Emilia",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria il Cortile",
+            "description": "In questa centro si tenne la mostra \"Antologica di pittura, grafica e sperimentazione\" nel 1979.",
+            "lat": 44.4988,
+            "lng": 11.3382,
+            "address": "Via Nazario Sauro, 23/A",
+            "events": [
+                {
+                    "mostra": "Antologica di pittura, grafica e sperimentazione",
+                    "year": "1979",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bologna",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Museo de Bellas Artes",
+            "description": "In questa centro si tenne la mostra \"Antologica con 83 opere\" nel 1977.",
+            "lat": 10.5069,
+            "lng": -66.8819,
+            "address": "Plaza de Los Museos",
+            "events": [
+                {
+                    "mostra": "Antologica con 83 opere",
+                    "year": "1977",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "#187fc3",
+            "city": "Caracas",
+            "country": "Venezuela",
+            "section": "Le metodologie della visione"
+        },
+        {
+            "title": "Studio d'Arte Il Moro",
+            "description": "In questa centro si tenne l'omonima mostra nel 1977.",
+            "lat": 43.7356,
+            "lng": 11.2383,
+            "address": "Via del Moro, 50/R",
+            "events": [
+                {
+                    "mostra": "Studio d'Arte Il Moro",
+                    "year": "1977",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Venezia",
+            "country": "Italy",
+            "section": "I metodi della visione"
+        },
+        {
+            "title": "Scuole Comunali",
+            "description": "In questa centro si tenne la mostra \"27a Mostra d'arte Contemporanea\" mostra nel 1976.",
+            "lat": 44.7918,
+            "lng": 7.1822,
+            "address": "Via del Moro, 50/R",
+            "events": [
+                {
+                    "mostra": "27a Mostra d'arte Contemporanea",
+                    "year": "1976",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Torri Pellice",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Marcon IV",
+            "description": "In questa centro si tenne una mostra nel 1976.",
+            "lat": 41.8627,
+            "lng": 12.4956,
+            "address": "Via Guglielmo Marconi, 70",
+            "events": [
+                {
+                    "mostra": "Galleria Marcon IV",
+                    "year": "1976",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": "Antologica",
+                    "year": "1974",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Roma",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Cesarea",
+            "description": "In questa centro si tenne una mostra nel 1976.",
+            "lat": 44.405682,
+            "lng": 8.94056,
+            "address": "Via XX Settembre, 15",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1976",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Genova",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Arte Fiera",
+            "description": "In questa centro si tenne una mostra personale nel 1975.",
+            "lat": 44.5163,
+            "lng": 11.3552,
+            "address": "Via dell Fiera, 20",
+            "events": [
+                {
+                    "mostra": "Franco Grignani",
+                    "year": "1975",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bologna",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Novelli",
+            "description": "In questa centro si tenne una mostra personale nel 1975.",
+            "lat": 45.4269,
+            "lng": 10.9919,
+            "address": "Corso Porta Nuova, 60",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1975",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Verona",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Rotonda di Via Besana",
+            "description": "In questa centro si tenne la mostra \"Una metodologia della visione\" nel 1975.",
+            "lat": 45.4647,
+            "lng": 9.1916,
+            "address": "Via Enrico Besana, 12",
+            "events": [
+                {
+                    "mostra": "Una metodologia della visione",
+                    "year": "1975",
+                    "source": "Una metodologia della visione"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria Andromeda",
+            "description": "In questa centro si tenne una mostra nel 1974.",
+            "lat": 44.4961,
+            "lng": 11.3483,
+            "address": "Via Indipendenza, 55",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1974",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bologna",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Trinità",
+            "description": "In questa centro si tenne una mostra nel 1973.",
+            "lat": 41.902473,
+            "lng": 12.476792,
+            "address": "Via dei Prefetti, 20",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1973",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Roma",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Marini",
+            "description": "In questa galleria si tenne una mostra nel 1972.",
+            "lat": 45.4385,
+            "lng": 10.9968,
+            "address": "Corso Porta Borsari, 33",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1972",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Verona",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Sala personale",
+            "description": "In questa galleria si tenne una mostra nel 1972.",
+            "lat": 45.7425,
+            "lng": 7.6515,
+            "address": null,
+            "events": [
+                {
+                    "mostra": "Prima rassegna nazionale d'Arte Contemporanea",
+                    "year": "1972",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Saint Vincent",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Segnapassi",
+            "description": "In questa galleria si tenne la mostra \"Grafica\" nel 1971.",
+            "lat": 43.90121,
+            "lng": 12.895,
+            "address": "Via Brancondi, 2",
+            "events": [
+                {
+                    "mostra": "Grafica",
+                    "year": "1971",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Pesaro",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria San Fedele",
+            "description": "In questa galleria si tenne una mostra nel 1971.",
+            "lat": 45.4658,
+            "lng": 9.1911,
+            "address": "Via Ulrico Hoepli, 3/A",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1971",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1969",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italy",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria Peccole",
+            "description": "In questa galleria si tenne una mostra nel 1971.",
+            "lat": 43.5496,
+            "lng": 10.3138,
+            "address": "Piazza della Repubblica, 12",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1971",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Livorno",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "500 D Gallery",
+            "description": "In questa galleria si tenne una mostra nel 1970.",
+            "lat": 41.852707,
+            "lng": -87.642174,
+            "address": "500, West Cermak Road",
+            "events": [
+                {
+                    "mostra": "Grafica",
+                    "year": "1970",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1966",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "#187fc3",
+            "city": "Chicago",
+            "country": "USA",
+            "section": "I metodi della visione"
+        },
+        {
+            "title": "Galleria l'Arco",
+            "description": "In questa galleria si tenne una mostra nel 1970.",
+            "lat": 42.032379,
+            "lng": 11.834229,
+            "address": "Via degli Scipioni, 97",
+            "events": [
+                {
+                    "mostra": "Grafica",
+                    "year": "1970",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Roma",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Rizzoli",
+            "description": "In questa galleria si tenne una mostra nel 1970.",
+            "lat": 41.9016,
+            "lng": 12.4862,
+            "address": "Via di San Vincenzo, 22",
+            "events": [
+                {
+                    "mostra": "Grafica",
+                    "year": "1970",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Roma",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria l'Arco",
+            "description": "In questa galleria si tenne una mostra nel 1970.",
+            "lat": 43.3016,
+            "lng": 13.4601,
+            "address": "Via Giuseppe Mazzini, 32",
+            "events": [
+                {
+                    "mostra": "Grafica",
+                    "year": "1970",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Macerata",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria La Colonna",
+            "description": "In questa galleria si tenne una mostra nel 1969.",
+            "lat": 45.809955,
+            "lng": 9.084835,
+            "address": "Via Vittorio Emanuele II, 97",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1969",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Como",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria l'Elefante",
+            "description": "In questa galleria si tenne una mostra nel 1968.",
+            "lat": 45.4336,
+            "lng": 12.3321,
+            "address": "Calle de la Mandola, 3805",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1968",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": null,
+                    "year": "1966",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Venezia",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Studio 2B",
+            "description": "In questa galleria si tenne una mostra nel 1968.",
+            "lat": 45.705043,
+            "lng": 9.681117,
+            "address": "Via Borgo Santa Caterina, 83",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1968",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bergamo",
+            "country": "Italy",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galerie Behr",
+            "description": "In questa galleria si tenne una mostra nel 1968.",
+            "lat": 48.7782,
+            "lng": 9.1806,
+            "address": "Fritz-Elsas-Straße, 64",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1968",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "pink",
+            "city": "Stoccarda",
+            "country": "Germania",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Galleria il Punto",
+            "description": "In questa galleria si tenne una mostra nel 1967.",
+            "lat": 45.06968,
+            "lng": 7.693392,
+            "address": "Via Montebello, 24",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1967",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": "Studio di Informazione Estetica",
+                    "year": "1966",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Torino",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Grattacielo Pirelli",
+            "description": "In questa galleria si tenne una mostra nel 1967.",
+            "lat": 45.4859,
+            "lng": 9.2066,
+            "address": "Piazza Duca d'Aosta",
+            "events": [
+                {
+                    "mostra": "18 anni di ricerca al Grattacielo Pirelli",
+                    "year": "1967",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria il Paladino",
+            "description": "In questa galleria si tenne una mostra nel 1967.",
+            "lat": 38.114627,
+            "lng": 13.362146,
+            "address": "Via Maqueda, 3",
+            "events": [
+                {
+                    "mostra": "18 anni di ricerca al Grattacielo Pirelli",
+                    "year": "1967",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Palermo",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Staatiche Verkkunststschule",
+            "description": "In questa galleria si tenne una mostra nel 1967.",
+            "lat": 51.304288,
+            "lng": 9.488994,
+            "address": "Menzelstraße, 13-15",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1967",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "pink",
+            "city": "Kassel",
+            "country": "Germania",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Galleria Flaviana",
+            "description": "In questa galleria si tenne una mostra nel 1966.",
+            "lat": 46.165165,
+            "lng": 8.798631,
+            "address": "Via della Posta, 7",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1966",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "pink",
+            "city": "Locarno",
+            "country": "Svizzera",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Palazzo Capponi",
+            "description": "In questa galleria si tenne una mostra nel 1966.",
+            "lat": 43.7690,
+            "lng": 11.2469,
+            "address": "Via Borgo Santi Apostoli, 44",
+            "events": [
+                {
+                    "mostra": "Centro proposte",
+                    "year": "1966",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Firenze",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria il Cenobbio",
+            "description": "In questa galleria si tenne una mostra nel 1965.",
+            "lat": 41.8834,
+            "lng": 87.6322,
+            "address": "208 South LaSalle Street",
+            "events": [
+                {
+                    "mostra": "Grafica Italiana Contemporanea",
+                    "year": "1965",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "blue",
+            "city": "Chicago",
+            "country": "USA",
+            "section": "I metodi della visione"
+        },
+        {
+            "title": "Conservatorio musicale Cherubini",
+            "description": "In questa galleria si tenne una mostra nel 1965.",
+            "lat": 43.7584,
+            "lng": 11.2764,
+            "address": "Via di Ripoli, 2",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1965",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "yellow",
+            "city": "Firenze",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Normandy House",
+            "description": "In questa galleria si tenne una mostra nel 1960.",
+            "lat": 41.8995,
+            "lng": 87.6236,
+            "address": "57 E Delaware Pl",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1960",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "blue",
+            "city": "Chicago",
+            "country": "USA",
+            "section": "I metodi della visione"
+        },
+        {
+            "title": "Libreria Salto",
+            "description": "In questa galleria si tennero due mostre nel 1960 e nel 1958.",
+            "lat": 45.478333,
+            "lng": 9.213962,
+            "address": "Via Plinio, 20",
+            "events": [
+                {
+                    "mostra": "Tensione visuale",
+                    "year": "1960",
+                    "source": "Le strutture simbiotiche"
+                },
+                {
+                    "mostra": "Esperimenti in dissolvenza",
+                    "year": "1958",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Crawford Gallery",
+            "description": "In questa galleria si tenne una mostra nel 1958.",
+            "lat": 51.622077,
+            "lng": -8.891822,
+            "address": "Emmet Place",
+            "events": [
+                {
+                    "mostra": null,
+                    "year": "1958",
+                    "source": "Le strutture simbiotiche"
+                }
+            ],
+            "color": "pink",
+            "city": "Cork",
+            "country": "Ireland",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Museum Judengasse",
+            "description": "In questa galleria si tenne una mostra nel 1990.",
+            "lat": 50.112336,
+            "lng": 8.688558,
+            "address": "Battonnstraße, 47",
+            "events": [
+                {
+                    "mostra": "30 Jahre Gallery",
+                    "year": "1990",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Francoforte",
+            "country": "Germania",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Museum Judengasse",
+            "description": "In questa galleria si tenne una mostra nel 1990.",
+            "lat": 50.112336,
+            "lng": 8.688558,
+            "address": "Battonnstraße, 47",
+            "events": [
+                {
+                    "mostra": "30 Jahre Gallery",
+                    "year": "1990",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "pink",
+            "city": "Francoforte",
+            "country": "Germania",
+            "section": "Le strutture della visione"
+        },
+        {
+            "title": "Galleria Arte Struktura",
+            "description": "In questa galleria si tenne una mostra nel 1991.",
+            "lat": 45.462323,
+            "lng": 9.193912,
+            "address": "Via Bergamini, 1",
+            "events": [
+                {
+                    "mostra": "Quasi una ripetizione differente",
+                    "year": "1991",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Accademia delle Belle Arti",
+            "description": "In questa galleria si tenne una mostra nel 1997.",
+            "lat": 45.472242,
+            "lng": 9.188407,
+            "address": "Via Brera, 28",
+            "events": [
+                {
+                    "mostra": "Il segno nell'occhio",
+                    "year": "1997",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria Carla Sozzani",
+            "description": "In questa galleria si tenne una mostra nel 2000.",
+            "lat": 45.484977,
+            "lng": 9.184108,
+            "address": "Via Enrico Tazzoli, 3",
+            "events": [
+                {
+                    "mostra": "Foto documentate dal 1928 agli anni '70",
+                    "year": "2000",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Museo d'Arte Contemporanea",
+            "description": "In questa galleria si tenne una mostra nel 2013.",
+            "lat": 45.612458,
+            "lng": 9.242085,
+            "address": "Via Gorizia, 21",
+            "events": [
+                {
+                    "mostra": "L'arte del progetto",
+                    "year": "2013",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "yellow",
+            "city": "Lissone",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "Galleria Credito Valtellinese",
+            "description": "In questa galleria si tenne una mostra nel 2014.",
+            "lat": 45.465173,
+            "lng": 9.173446,
+            "address": "Corso Magenta, 59",
+            "events": [
+                {
+                    "mostra": "Alterazioni ottico-mentali",
+                    "year": "2014",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        },
+        {
+            "title": "Galleria Bergamo Arte",
+            "description": "In questa galleria si tenne una mostra nel 2014.",
+            "lat": 45.703653,
+            "lng": 9.676426,
+            "address": "Via San Tomaso, 53",
+            "events": [
+                {
+                    "mostra": "Franco Grignani",
+                    "year": "2014",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "yellow",
+            "city": "Bergamo",
+            "country": "Italia",
+            "section": "Le origini della visione"
+        },
+        {
+            "title": "10 A.M. Art",
+            "description": "In questa galleria si tenne una mostra nel 2016.",
+            "lat": 45.451221,
+            "lng": 9.180096,
+            "address": "Corso San Gottardo, 5",
+            "events": [
+                {
+                    "mostra": "Il rigore dell'ambiguità",
+                    "year": "2016",
+                    "source": "Subperception"
+                }
+            ],
+            "color": "green",
+            "city": "Milano",
+            "country": "Italia",
+            "section": "Le teorie della visione"
+        }
+    ]
+}
