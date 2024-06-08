@@ -1,72 +1,146 @@
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
 }
-#mainbox {
+main {
     width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+#maintitle {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+    height: 200px;
+}
+#maintitle h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#maintitle p {
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#artwork {
+    width: 90%;
+    margin: auto auto -10px auto;
+    height: calc(100vh - 250px);
+    object-fit: contain;
+    display: block;
+}
+
+#description {
+    padding: 20px;
+    width: calc(100% - 40px);
+    margin: 0 auto;
+    background-color: white;
+    z-index: 10;
+    color: black;
+}
+#description h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#description p {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#mapimage {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+#mapsection {
+    padding: 0 20px;
+    width: calc(100% - 40px);
+    margin: -50px auto 0 auto;
+}
+#mapsection h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mapsection p {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#mapsection a {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    width: fit-content;
+    text-align: center;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#mapcallout {
+    padding: 20px;
+    width: calc(90% - 40px);
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 10;
+    color: black;
+}
+#mapcallout h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+#mapcallout p {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#mapcallout a {
+    font-family: Helvetica, Helvetica, sans-serif;
+    color: black;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#coversection {
+    padding: 0 20px;
+    width: calc(100% - 40px);
+    margin: 40px auto;
+}
+#coversection h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#coversection p {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#coversection a {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    width: fit-content;
+    text-align: center;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+footer {
+    z-index: 100;
+    position: fixed;
+    height: fit-content;
+    bottom: 0;
+    left: 0;
+    width: calc(100% - 40px);
+    padding: 30px 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-#left-bar {
-    width: calc(30% - 20px);
-    padding: 10px;
+footer a {
     background-color: black;
     color: white;
-}
-#map {
-    width: 70%;
-    height: 100vh;
-    position: fixed;
-    right: 0;
-    top: 0;
-}
-
-.place {
-    width: 90%;
-    margin: auto;
-    background-color: rgb(28, 28, 28);
-    border-radius: 10px;
-    overflow: hidden;
-    margin-bottom: 20px;
-}
-.place img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-}
-.place-info {
-    width: 90%;
-    margin: auto;
-}
-.place-info h3 {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    font-size: 25px;
-}
-.place-ribbons {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-}
-.place-ribbons p {
-    margin: 0;
-    padding: 3px 5px;
-    font-size: 12px;
-    border-radius: 5px;
-}
-
-@media screen and (max-width: 768px) {
-    #mainbox {
-        flex-direction: column;
-    }
-    #left-bar {
-        width: 100%;
-        padding-top: 50vh;
-    }
-    #map {
-        width: 100%;
-        height: 50vh;
-    }
-    
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    width: calc(50% - 45px);
+    text-align: center;
+    font-family: Helvetica, Helvetica, sans-serif;
 }

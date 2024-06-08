@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+main {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+#maintitle {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+    height: calc(100vh - 50px);
+}
+#maintitle h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#maintitle p, #maintitle li {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Helvetica, Helvetica, sans-serif;
+}

@@ -52,9 +52,9 @@ document.addEventListener('DOMContentLoaded', () => {
             innerContent.appendChild(section);
             innerContent.appendChild(city);
             innerContent.appendChild(year);
-            placeInfo.appendChild(innerContent);
-            placeInfo.appendChild(description);
             mainContent.appendChild(placeInfo);
+            mainContent.appendChild(innerContent);
+            mainContent.appendChild(description);
 
             container.appendChild(mainContent);
 

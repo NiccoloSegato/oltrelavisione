@@ -1,23 +1,48 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home</title>
-        <link rel="stylesheet" type="text/css" href="styles/index.css">
+        <title>Home - Oltrelavisione</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- MapBox integration -->
-        <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
-        <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
-        <script src="scripts/index.js"></script>
+        <link rel="stylesheet" type="text/css" href="styles/index.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body>
-        <nav></nav>
-        <main id="mainbox">
-            <div id="left-bar">
-                <h2>Luoghi</h2>
-                <div id="places"></div>
+        <main>
+            <div id="maintitle">
+                <h1>FRANCO GRIGNANI</h1>
+                <p>Oltre la visione</p>
             </div>
-            <div id="map"></div>
+            <img id="artwork" src="assets/images/artwork.svg" alt="Opera ispirata a Franco Grignani">
+            <div id="description">
+                <h2>Il progetto</h2>
+                <p>Nell'ambito del corso Laboratorio di Fondamenti del Progetto del corso di Design della Comunicazione presso il Politecnico di Milano il nostro gruppo ha elaborato un book riguardante i luoghi del progetto di Franco Grignani, artista e designer italiano tra i più influenti dello scorso secolo.</p>
+                <p>Il progetto è senza scopo di lucro e realizzato per scopi accademici. È composto da un book progettato e realizzato dal nostro gruppo. Per la sua valorizzazione, abbiamo scelto di realizzare una mappa interattiva per rappresentare tutti i luoghi del progetto di Franco Grignani, insieme ad una copertina animata che può essere visualizzata in realtà aumentata.</p>
+            </div>
+            <img id="mapimage" src="assets/images/map.png" alt="Mappa interattiva">
+            <div id="mapsection">
+                <h2>Mappa interattiva</h2>
+                <p>Abbiamo realizzato una mappa interattiva online, visualizzabile da qualsiasi dispositivo, così da rappresentare tutti i luoghi del progetto di Franco Grignani in modo moderno e comodo, aperto e accessibile a tutti.</p>
+                <a href="map.html">Vai alla mappa</a>
+            </div>
+            <div id="mapcallout">
+                <h3>Database e fonti</h3>
+                <p>La mappa raccoglie circa 200 luoghi del progetto di Franco Grignani.<br>Queste informazioni sono state raccolte da diverse fonti, senza le quali non sarebbe potuta essere realizzata questa mappa.<br>Di seguito è possibile visualizzare il database dei luoghi da noi realizzato, nonché consultare l'elenco delle fonti.</p>
+                <a href="assets/data/data.json" target="_blank">Database dei luoghi <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                <a href="sources.html" target="_blank">Fonti <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+            </div>
+            <hr>
+            <div id="coversection">
+                <h2>Copertina animata</h2>
+                <p>Dopo un attento studio delle opere di Franco Grignani e di come fosse sempre alla ricerca del movimento anche nelle opere all'apparenza più statiche, abbiamo deciso di realizzare una copertina animata che andasse ad aumentare l'esperienza del lettore.<br>Grazie alle tecnologie ArtiVive abbiamo realizzato una versione in realtà aumentata di questa copertina animata, così da perseguire l'innovazione, argomento sempre centrale nelle opere di Franco Grignani.</p>
+                <a href="https://apps.apple.com/it/app/artivive/id1188737494">Apri ArtiVive</a>
+            </div>
         </main>
+
+
+        <footer>
+            <a href="map.html"><i class="fa-solid fa-map"></i> MAPPA</a>
+            <a href="https://apps.apple.com/it/app/artivive/id1188737494"><i class="fa-solid fa-book"></i> COPERTINA</a>
+        </footer>
     </body>
 </html>
