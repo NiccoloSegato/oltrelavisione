@@ -73,7 +73,7 @@ main {
     text-align: center;
     font-family: Helvetica, Helvetica, sans-serif;
 }
-#mapcallout {
+.mapcallout {
     padding: 20px;
     width: calc(90% - 40px);
     margin: 30px auto;
@@ -82,14 +82,14 @@ main {
     z-index: 10;
     color: black;
 }
-#mapcallout h3 {
+.mapcallout h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
 }
-#mapcallout p {
+.mapcallout p {
     font-family: Helvetica, Helvetica, sans-serif;
 }
-#mapcallout a {
+.mapcallout a {
     font-family: Helvetica, Helvetica, sans-serif;
     color: black;
     display: block;

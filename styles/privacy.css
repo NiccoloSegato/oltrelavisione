@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+main {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+#maintitle {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+}
+#maintitle h1 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#subttl {
+    margin-top: 10px;
+    margin-bottom: 70px;
+    font-size: 20px;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#maintitle p {
+    margin-top: 10px;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+#maintitle a {
+    color: white;
+    font-family: Helvetica, Helvetica, sans-serif;
+}
