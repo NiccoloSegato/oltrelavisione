@@ -14,6 +14,10 @@ body {
     background-color: black;
     color: white;
 }
+#left-bar h2 {
+    width: 90%;
+    margin: auto;
+}
 #map {
     width: 70%;
     height: 100vh;
@@ -48,12 +52,18 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: left;
+    width: 90%;
+    margin: auto;
 }
 .place-ribbons p {
     margin: 0;
     padding: 3px 5px;
     font-size: 12px;
     border-radius: 5px;
+}
+.place-description {
+    width: 90%;
+    margin: auto;
 }
 
 @media screen and (max-width: 768px) {

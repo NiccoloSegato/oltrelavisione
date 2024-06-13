@@ -14,6 +14,10 @@ body {
     background-color: black;
     color: white;
 }
+#left-bar h2 {
+    width: 90%;
+    margin: 40px auto 20px auto;
+}
 #map {
     width: 70%;
     height: 100vh;
@@ -29,6 +33,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
+    transition-duration: 0.5s;
 }
 .place img {
     width: 100%;
@@ -48,6 +53,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: left;
+    width: 90%;
+    margin: auto;
 }
 .place-ribbons p {
     margin: 0;
@@ -55,18 +62,26 @@ body {
     font-size: 12px;
     border-radius: 5px;
 }
+.place-description {
+    width: 90%;
+    margin: auto;
+}
 
 @media screen and (max-width: 768px) {
     #mainbox {
         flex-direction: column;
     }
     #left-bar {
-        width: 100%;
-        padding-top: 50vh;
+        width: calc(100% - 20px);
+        padding-top: 40vh;
     }
     #map {
         width: 100%;
-        height: 50vh;
+        height: 40vh;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
     }
-    
+    .place {
+        width: 95%;
+    }
 }

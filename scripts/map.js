@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const map = new mapboxgl.Map({
         container: 'map', // container ID
         style: 'mapbox://styles/niccolosegato/clwstqose016k01pn8ei6hr6a', // style URL
-        center: [-74.5, 40], // starting position [lng, lat]
-        zoom: 9 // starting zoom
+        center: [44.8, 9.6], // starting position [lng, lat]
+        zoom: 4 // starting zoom
     });
 
     fetch('assets/data/data.json')
@@ -46,7 +46,21 @@ document.addEventListener('DOMContentLoaded', () => {
             year.textContent = data.places[i].year;
 
             const description = document.createElement('p');
-            description.textContent = data.places[i].description;
+            description.classList.add('place-description');
+            description.textContent = "In questo luogo: ";
+
+            const events = document.createElement('ul');
+            events.classList.add('events');
+            for(let j = 0; j < data.places[i].events.length; j++) {
+                const event = document.createElement('li');
+                if(data.places[i].events[j].mostra !== null){
+                    event.textContent = "\"" + data.places[i].events[j].mostra + "\" - " + data.places[i].events[j].year;
+                }
+                else{
+                    event.textContent = "\"Mostra senza nome\" - " + data.places[i].events[j].year;
+                }
+                events.appendChild(event);
+            }
 
             placeInfo.appendChild(title);
             innerContent.appendChild(section);
@@ -55,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mainContent.appendChild(placeInfo);
             mainContent.appendChild(innerContent);
             mainContent.appendChild(description);
+            mainContent.appendChild(events);
 
             container.appendChild(mainContent);
 
